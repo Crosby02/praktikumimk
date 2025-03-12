@@ -1,0 +1,2 @@
+# praktikumimk
+Repo Praktikum IMK
